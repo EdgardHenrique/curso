@@ -1,0 +1,11 @@
+html {
+    background: lightblue;
+}
+
+body {
+    font-family:cursive;
+    background-image:url(doria.jpg);
+    background-repeat:no-repeat;
+    background-position:bottom right;
+    background-size: 300px 450px;
+}
